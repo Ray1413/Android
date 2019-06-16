@@ -1,0 +1,14 @@
+{
+	"title": "IVE",
+	"campuses": [
+		{"code": "TY"},
+		{"code": "MH"},
+		{"code": "TM"},
+		{"code": "ST"},
+		{"code": "CW"},
+		{"code": "LWL"},
+		{"code": "KT"},
+		{"code": "HW"},
+		{"code": "KC"}
+	]
+}
